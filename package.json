@@ -1,0 +1,29 @@
+{
+  "name": "headline",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "amfe-flexible": "^2.2.1",
+    "axios": "^0.22.0",
+    "dayjs": "^1.10.7",
+    "vant": "^3.2.5",
+    "vue": "^3.2.20",
+    "vue-router": "^4.0.11",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.9.3",
+    "autoprefixer": "^10.3.7",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^7.19.1",
+    "less": "^4.1.2",
+    "postcss": "^8.3.9",
+    "postcss-pxtorem": "^6.0.0",
+    "pug": "^3.0.2",
+    "vite": "^2.6.5"
+  }
+}
